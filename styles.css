@@ -29,9 +29,10 @@ body {
     text-align: center;
     font-size: 1em;
     margin-bottom: 8px;
+    color: #09090a;
 }
 
-.calculator-header h1 {
+.calculator-header h2 {
     text-align: center;
     color: #333;
     font-size: 3em;
